@@ -1,7 +1,7 @@
 # Magenta
 Roblox Proxy’s - Made Simple
 
-![](Magenta.png)
+![Thanks to Sentanos for the idea!](Magenta.png)
 
 
 
