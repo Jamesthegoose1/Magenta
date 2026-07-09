@@ -1,5 +1,5 @@
 # Magenta
-Roblox Proxy’s - Made Simple
+Roblox Proxying - Made Simple
 
 ![Thanks to Sentanos for the idea!](Magenta.png)
 
