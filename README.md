@@ -20,5 +20,5 @@ Magenta is a Self Use (Private) Proxy ment for use with your games only. As Mege
 5. Make sure that the .env loaded correctly if not then load it in the variables manually
 6. Save your changes and Deploy
 7. Connect a domain and you have just deployed Magenta!
-> [!NOTICE]
+> [!NOTE]
 > Magenta uses port 8080 as the default
